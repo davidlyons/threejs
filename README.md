@@ -1,1 +1,1 @@
-# threejs
+This repo is just for a redirect for the old URL for my Intro to Three.js presentation
